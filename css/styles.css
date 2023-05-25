@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#todo {
+  list-style-type: none;
+  padding: 0;
+}
+
+#todo li {
+  background-color: #ffffff;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+#todo li h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+#todo li p {
+  margin-top: 5px;
+  font-size: 14px;
+}

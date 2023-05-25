@@ -1,0 +1,12 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server list.json --host localhost --port 8000"
+
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,44 @@
+{
+  "notes": [
+    {
+      "title": "Shopping siema",
+      "content": "Buy groceries and household items",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Meeting Agenda",
+      "content": "Prepare presentation and discussion points"
+    },
+    {
+      "id": "3",
+      "title": "Travel Plans",
+      "content": "Book flights and accommodation"
+    },
+    {
+      "id": "4",
+      "title": "Project Tasks",
+      "content": "Complete milestone 1 and submit report"
+    },
+    {
+      "id": "5",
+      "title": "Fitness Goals",
+      "content": "Run 5 miles and do strength training"
+    },
+    {
+      "title": "notatka",
+      "content": "dobra notatka",
+      "id": "1IKBBcH"
+    },
+    {
+      "title": "siame",
+      "content": "dfafda",
+      "id": "R8slty3"
+    },
+    {
+      "title": "fda",
+      "content": "fda",
+      "id": "e3Bm7sY"
+    }
+  ]
+}
